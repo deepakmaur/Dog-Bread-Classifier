@@ -13,9 +13,9 @@ To tackle this image recognition task, I employed transfer learning with Resnet1
 #### Performance
 The model achieved approximately 70% accuracy on the validation set, demonstrating reasonable performance given the constraints. Here are a few examples of the predictions:
 
-![Prediction Example 1](path-to-image)
+![Prediction Example 1](https://github.com/deepakmaur/Dog-Bread-Classifier/blob/main/predictions/prediction%237.jpg)
 
-![Prediction Example 2](path-to-image)
+![Prediction Example 2](https://github.com/deepakmaur/Dog-Bread-Classifier/blob/main/predictions/prediction%238.jpg)
 
 #### Future Enhancements
 To further enhance the model's accuracy, two primary strategies can be considered: using a deeper model or expanding the training dataset. A deeper model could address underfitting, while a larger dataset, perhaps from sources like the Stanford Dogs Dataset, could reduce overfitting and improve accuracy. Additionally, conducting an error analysis and generating a confusion matrix would provide insights into misclassifications, potentially revealing if similar-looking breeds are causing errors.
