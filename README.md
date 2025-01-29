@@ -1,10 +1,7 @@
-Sure! Here's a version of the text while removed the issue of plagiarism:
 
----
+### Dog Breed Identification 
 
-### Dog Breed Identification Project
-
-#### The Challenge
+####  Challenge
 This project's objective was to create a model capable of classifying dog breeds from images. The challenge involved identifying 120 different breeds with a limited number of training images per class, adding complexity to the task.
 
 #### Approach
